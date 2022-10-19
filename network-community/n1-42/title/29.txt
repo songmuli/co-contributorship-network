@@ -1,0 +1,1 @@
+Estimation of the force of infection and infectious period of skin sores in remote Australian communities using interval-censored data

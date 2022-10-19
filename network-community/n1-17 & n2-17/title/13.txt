@@ -1,0 +1,1 @@
+Predicting the risk of emergency admission with machine learning: Development and validation using linked electronic health records

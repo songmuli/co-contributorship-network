@@ -1,0 +1,1 @@
+Estimating the optimal interval between rounds of indoor residual spraying of insecticide using malaria incidence data from cohort studies

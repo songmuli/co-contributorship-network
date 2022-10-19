@@ -1,0 +1,1 @@
+Diagnostic performance and image quality of iterative model-based reconstruction of coronary CT angiography using 100 kVp for heavily calcified coronary vessels

@@ -1,0 +1,1 @@
+Clinical tool for disease phenotyping in granulomatous lung disease

@@ -1,0 +1,1 @@
+Health administrative data enrichment using cohort information: Comparative evaluation of methods by simulation and application to real data

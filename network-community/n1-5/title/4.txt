@@ -1,0 +1,1 @@
+Implementation of the DP-TRANSFERS project in Catalonia: A translational method to improve diabetes screening and prevention in primary care

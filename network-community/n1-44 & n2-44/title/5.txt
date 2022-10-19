@@ -1,0 +1,1 @@
+Age, sex and disease-specific associations between resting heart rate and cardiovascular mortality in the UK BIOBANK
